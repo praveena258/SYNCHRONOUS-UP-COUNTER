@@ -60,7 +60,8 @@ Developed by:praveena d RegisterNumber:24003392
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![image](https://github.com/user-attachments/assets/b065874d-925e-4eab-bac4-6613cf37de5a)
+![image](https://github.com/user-attachments/assets/9be19c58-ac80-4ec0-b927-4169fb63e0bb)
+
 
 
 **TRUTH TABLE**
